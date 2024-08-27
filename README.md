@@ -1,7 +1,7 @@
 # ProjetodeSoftware
 
 
-# Meu nome é Caio Augusto Homem de Melo Monteiro dos Santos e meu RA é 10403125 e este será meu projeto para a matéria de Projeto de Software, esse projeto consiste em tilizar os principais conceito e técnicas de modelagem de sistemas (adquiridos durante o
+Meu nome é Caio Augusto Homem de Melo Monteiro dos Santos e meu RA é 10403125 e este será meu projeto para a matéria de Projeto de Software, esse projeto consiste em tilizar os principais conceito e técnicas de modelagem de sistemas (adquiridos durante o
 semestre nessa e em outras disciplinas, além de pesquisas), desenvolver a diagramação
 completada de um projeto de software, considerando todas as etapas do projeto.
 Ao final do projeto, os discentes serão capazes de aplicar os conhecimentos e habilidades
