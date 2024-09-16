@@ -100,6 +100,6 @@ Casos de uso:
   3. O sistema exibe a quantidade disponível e outras informações relevantes.
 - **Pós-condições**: O ator visualiza as informações atualizadas sobre o estoque do produto.
 
-(continua para outros casos de uso...)
+
 
 
