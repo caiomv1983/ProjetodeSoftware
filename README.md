@@ -35,5 +35,5 @@ em três módulos principais:
 # Diagramas
 
 
-![Diagrama de Caso de Uso](imagens/diagrama casos de uso.png)
+![Diagrama de Caso de Uso](diagrama casos de uso.png)
 
