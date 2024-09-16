@@ -29,3 +29,11 @@ em três módulos principais:
 • Gestão de produtos;
 • Gestão de clientes;
 • Gestão de vendas.
+
+
+
+# Diagramas
+
+
+![Diagrama de Caso de Uso](imagens/diagrama de casos de uso.png)
+
