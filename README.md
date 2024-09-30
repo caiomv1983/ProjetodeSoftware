@@ -38,6 +38,10 @@ Casos de uso:
 
 ![Diagrama de Caso de Uso](diagramacasosdeuso.png)
 
+Classes:
+
+![Diagrama de Classes](diagramadeclasse.png)
+
 
 # Especificação de Casos de Uso - Sistema ERP Mobile Eletronics
 
