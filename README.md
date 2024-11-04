@@ -42,6 +42,10 @@ Classes:
 
 ![Diagrama de Classes](diagramadeclasses.png)
 
+Sequencia:
+
+![Diagrama de Sequencia](diagramasequencia.png)
+
 
 # Especificação de Casos de Uso - Sistema ERP Mobile Eletronics
 
